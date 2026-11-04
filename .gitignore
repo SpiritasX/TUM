@@ -1,2 +1,6 @@
 I2PDP/
 .venv/
+I2DL/exercises/datasets/
+I2DL/exercises/output/
+models/
+__pycache__/
